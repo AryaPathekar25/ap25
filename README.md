@@ -22,3 +22,5 @@ This project automates social media data extraction using Selenium and OCR.
 1. Install dependencies
 2. Run main.py
 
+## 📌 Project Demo
+🎥 Demo Video: [https://your-google-drive-link](https://drive.google.com/file/d/1-jZXxUoMdT2SAMBnou2SUuvWCArO3SC9/view?usp=sharing)
